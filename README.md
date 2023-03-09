@@ -1,8 +1,7 @@
  # ineedtoknow
  ineedtoknow is private repo for ParzivalTM
- **installation for termux**
  
-
+ **installation for termux**
  - `pkg update`
  - `pkg install python3 python3-pip git -y`
  - `git clone https://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@github.com/ParzivalTM41/ineedtoknow.git`
