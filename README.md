@@ -1,5 +1,6 @@
  # ineedtoknow
  ineedtoknow is private repo for ParzivalTM
+ 
  FOR EDUCATION PURPOSES!
  
  **installation for termux**
